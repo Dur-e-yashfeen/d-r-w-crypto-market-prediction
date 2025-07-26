@@ -52,12 +52,6 @@ Crypto markets are complex, volatile, and prone to anomalies. The goal of this p
 
 ---
 
-## 📷 Visual Example
-
-![Anomaly Insights](anomaly_insights.png)
-
----
-
 ## 📌 How to Run
 
 1. Clone the repo or open the notebook on Kaggle.
