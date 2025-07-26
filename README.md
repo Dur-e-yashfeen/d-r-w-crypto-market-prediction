@@ -63,7 +63,7 @@ Crypto markets are complex, volatile, and prone to anomalies. The goal of this p
 ## 🧠 Author
 
 **Dur-e-Yashfeen**  
-👩‍💻 AI/ML Engineer | Data Science Enthusiast | Kaggle Competitor
+👩‍💻 Data Science Enthusiast | Kaggle Competitor
 
 ---
 
