@@ -48,7 +48,7 @@ Crypto markets are complex, volatile, and prone to anomalies. The goal of this p
 |------|-------------|
 | `d-r-w-crypto-market-prediction.ipynb` | Full notebook with preprocessing, anomaly correction, training, and prediction |
 | `crypto_predictions.csv` | Final submission file |
-| `anomaly_insights.png` | Visualizations of anomaly corrections |
+
 
 ---
 
